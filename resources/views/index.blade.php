@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Home || Assurance || Responsive HTML 5 Template</title>
+    <title>Multipilar - Penyedia Core Banking System BPR,LKM dan Koperasi</title>
 
     <!-- responsive meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -35,17 +35,17 @@
                     <div class="col-md-8 col-sm-12 col-xs-12">
                         <div class="top-info">
                             <ul>
-                                <li><span class="icon-signs"></span>Discover St, New York, NY 10012, USA</li>
-                                <li><span class="icon-clock"></span>Opening Time: Mon-Sat: 09.00 to 18.00</li>
+                                <li><span class="icon-signs"></span>ALAMAT MULTIPILAR</li>
+                                <li><span class="icon-clock"></span>Opening Time: Mon-Sat: 09.00 to 17.00</li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-8 col-xs-9">
                         <div class="top-right">
                             <ul>
-                                <li><a href="#">Quick Links</a></li>
-                                <li><a href="#">Support</a></li>
-                                <li><a href="#">Register</a></li>
+
+
+                                <li><a href="/login">Login Admin</a></li>
                             </ul>
                         </div>
                     </div>
@@ -54,11 +54,9 @@
                             <div id="polyglotLanguageSwitcher">
                                 <form action="#">
                                     <select id="polyglot-language-options">
-                                        <option id="en" value="en" selected>English</option>
-                                        <option id="fr" value="fr">French</option>
-                                        <option id="de" value="de">German</option>
-                                        <option id="it" value="it">Italian</option>
-                                        <option id="es" value="es">Spanish</option>
+                                        <option id="id" value="id" selected>Indonesia</option>
+                                        <option id="en" value="en">English</option>
+
                                     </select>
                                 </form>
                             </div>
@@ -77,7 +75,7 @@
                     <div class="col-lg-5 col-md-4 col-sm-12 col-xs-12">
                         <div class="logo">
                             <a href="index.html">
-                                <img src="landing/images/resources/logo.png" alt="Awesome Logo">
+                                <img src="landing/newimages/logo2.png" alt="Awesome Logo">
                             </a>
                         </div>
                     </div>
@@ -90,7 +88,7 @@
                                     </div>
                                     <div class="text-holder">
                                         <h6>Call Us On</h6>
-                                        <p>1-8000-978-6543</p>
+                                        <p>(0265) 337022</p>
                                     </div>
                                 </li>
                                 <li>
@@ -99,7 +97,7 @@
                                     </div>
                                     <div class="text-holder">
                                         <h6>Mail Us @</h6>
-                                        <p>Supportuss@gmail.com</p>
+                                        <p>cs@multipilarbalantika.co.id</p>
                                     </div>
                                 </li>
                             </ul>
@@ -109,10 +107,8 @@
                         <div class="top-social-links">
                             <ul>
                                 <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
                                 <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                <li><a href="#"><i class="fa fa-skype" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -140,54 +136,26 @@
                                 <div class="navbar-collapse collapse clearfix">
                                     <ul class="navigation clearfix">
                                         <li class="home current"><a href="index.html"><span class="fa fa-home"></span></a></li>
-                                        <li class="dropdown"><a href="about.html">About us</a>
+                                        <li class="dropdown"><a href="about.html">Tentang Kami</a>
                                             <ul>
-                                                <li><a href="company-overview.html">Company Overview</a></li>
-                                                <li><a href="company-history.html">Company History</a></li>
-                                                <li><a href="our-team.html">Our Team</a></li>
-                                                <li><a href="our-partner.html">Our Partner</a></li>
-                                                <li><a href="faq.html">FAQ's</a></li>
-                                                <li><a href="client-feedback.html">Client Feedback</a></li>
-                                                <li><a href="404.html">404 Page</a></li>
+                                                <li><a href="#">Tentang Perusahaan</a></li>
+                                                <li><a href="#">Sejarah Kami</a></li>
+                                                <li><a href="#">Our Team</a></li>
+                                                <li><a href="#">FAQ's</a></li>
+
                                             </ul>
                                         </li>
-                                        <li class="dropdown"><a href="services.html">Our Services</a>
+                                        <li class="dropdown"><a href="#">Produk Kami</a>
                                             <ul>
-                                                <li><a href="business-planning.html">Business Planning</a></li>
-                                                <li><a href="audit-assurance.html">Audit & Assurance</a></li>
-                                                <li><a href="trades-stocks.html">Trades & Stocks</a></li>
-                                                <li><a href="investment-plan.html">Investment Plan</a></li>
-                                                <li><a href="risk-management.html">Risk Management</a></li>
-                                                <li><a href="succession-planning.html">Succession Planning</a></li>
-                                                <li><a href="strategic-planning.html">Strategic Planning</a></li>
-                                                <li><a href="financial-projections.html">Financial Projections</a></li>
+                                                <li><a href="#">SimfoniBPR</a></li>
+                                                <li><a href="#">SimfoniLKM</a></li>
+                                                <li><a href="#">SimfoniBMT</a></li>
+                                                <li><a href="#">Simfoni Mobile</a></li>
+
                                             </ul>
                                         </li>
-                                        <li class="dropdown"><a href="blog.html">Latest News</a>
-                                            <ul>
-                                                <li><a href="blog.html">Blog Default</a></li>
-                                                <li><a href="blog-grid.html">Blog Grid View</a></li>
-                                                <li><a href="blog-list.html">Blog List View</a></li>
-                                                <li><a href="blog-single.html">Blog Single Post</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="project.html">Projects</a>
-                                            <ul>
-                                                <li><a href="project-grid.html">Grid View</a></li>
-                                                <li><a href="project-grid-with-text.html">Grid With Text</a></li>
-                                                <li><a href="project.html">Projects Gallery Style</a></li>
-                                                <li><a href="project-single.html">Projects Single Post</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="shop.html">Shop</a>
-                                            <ul>
-                                                <li><a href="shop.html">Shop Products</a></li>
-                                                <li><a href="shop-single.html">Single Product</a></li>
-                                                <li><a href="shopping-cart.html">Shopping Cart</a></li>
-                                                <li><a href="checkout.html">Checkout</a></li>
-                                                <li><a href="account.html">My Account</a></li>
-                                            </ul>
-                                        </li>
+                                        <li><a href="blog.html">Berita / Blog</a></li>
+                                       
                                         <li><a href="contact.html">Contact Us</a></li>
                                     </ul>
                                 </div>
@@ -211,7 +179,7 @@
                         </div>
                         <div class="col-md-2 col-sm-12 col-xs-12">
                             <div class="free-consulation-button pull-right">
-                                <a class="thm-btn bg-clr1" href="#">free Consultation</a>
+                                <a class="thm-btn bg-clr1" href="#">Konsultasi Gratis</a>
                             </div>
                         </div>
                     </div>
@@ -230,21 +198,22 @@
 
                         <div class="tp-caption  tp-resizeme" data-x="left" data-hoffset="0" data-y="top" data-voffset="130" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-start="700">
                             <div class="slide-content-box">
-                                <h1>Right place to <br>begin your business </h1>
-                                <p>With over 10 years of experience helping businesses to find<br>comprehensive solutions.</p>
+                                <h1>PT. Multipilar Balantika <br> Penyedia Core Banking System</h1>
+                                <p>Telah berpengalaman lebih dari 13 tahun <br>
+                                membangun sistem untuk BPR, LKM dan Koperasi.</p>
                             </div>
                         </div>
                         <div class="tp-caption tp-resizeme" data-x="left" data-hoffset="0" data-y="top" data-voffset="358" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-start="2300">
                             <div class="slide-content-box">
                                 <div class="button">
-                                    <a class="thm-btn bg-clr1" href="#">Meet Experts</a>
+                                    <a class="thm-btn bg-clr1" href="#">Video Profil Kami</a>
                                 </div>
                             </div>
                         </div>
                         <div class="tp-caption tp-resizeme" data-x="left" data-hoffset="182" data-y="top" data-voffset="358" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-start="2600">
                             <div class="slide-content-box">
                                 <div class="button">
-                                    <a class="thm-btn bg-clr2" href="#">Contact Us</a>
+                                    <a class="thm-btn bg-clr2" href="#">Hubungi Kami</a>
                                 </div>
                             </div>
                         </div>
@@ -254,41 +223,18 @@
 
                         <div class="tp-caption tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="-47" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" data-splitin="none" data-splitout="none" data-start="500">
                             <div class="slide-content-box middle-slide">
-                                <h1>Growth doesn’t<br>come without hard work</h1>
+                                <h1>Coba CBS Kami Sekarang!</h1>
                             </div>
                         </div>
                         <div class="tp-caption tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="75" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-start="2300">
                             <div class="slide-content-box middle-slide">
                                 <div class="button">
-                                    <a href="#">Work With us today</a>
+                                    <a href="#">Ajukan Demo</a>
                                 </div>
                             </div>
                         </div>
                     </li>
-                    <li data-transition="slidingoverlayright">
-                        <img src="landing/images/slides/3.jpg" alt="" width="1920" height="550" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1">
-
-                        <div class="tp-caption  tp-resizeme" data-x="left" data-hoffset="0" data-y="top" data-voffset="130" data-transform_idle="o:1;" data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-start="700">
-                            <div class="slide-content-box">
-                                <h1>We help businesses<br>innovate and grow.</h1>
-                                <p>With over 10 years of experience helping businesses to find <br>comprehensive solutions.</p>
-                            </div>
-                        </div>
-                        <div class="tp-caption tp-resizeme" data-x="left" data-hoffset="0" data-y="top" data-voffset="358" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-start="2300">
-                            <div class="slide-content-box">
-                                <div class="button">
-                                    <a class="thm-btn bg-clr1" href="#">Our Company</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="tp-caption tp-resizeme" data-x="left" data-hoffset="182" data-y="top" data-voffset="358" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-start="2600">
-                            <div class="slide-content-box">
-                                <div class="button">
-                                    <a class="thm-btn bg-clr2" href="#">Contact Us</a>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
+                    
 
                 </ul>
             </div>
@@ -299,8 +245,10 @@
         <section class="call-to-action-area">
             <div class="container">
                 <div class="title text-center">
-                    <h3>We are the leading provider of client solutions with over 10 years of experience helping businesses to find comprehensive solutions and high growth.</h3>
-                    <p>Assurance is right choice for all type of business, See our services</p>
+                    <h3>PT. Multipilar Balantika <br> 
+                    perusahaan penyedia Core Banking System (CBS) yang telah berpengalaman untuk membantu 
+                    perusahaan microbanking untuk tumbuh melalui produk yang handal dan adaptif.</h3>
+                    <p>Microbanking yang kami layani :</p>
                 </div>
                 <div class="row">
                     <!--Start single item-->
@@ -317,8 +265,8 @@
                                 </div>
                             </div>
                             <div class="text-holder">
-                                <h3>Business Planning</h3>
-                                <p>The process of improving measure of an enterpprise's success. Business growth can be a achieved.</p>
+                                <h3>Bank Perkreditan Rakyat (BPR).</h3>
+                                <p>Kami menyediakan solusi bagi BPR melalui produk SimfoniBPR</p>
                             </div>
                         </div>
                     </div>
@@ -337,8 +285,8 @@
                                 </div>
                             </div>
                             <div class="text-holder">
-                                <h3>Audit & Assurance</h3>
-                                <p>Sustainability is a priority interest for many of organizations, when it comes to sustainability & corporate.</p>
+                                <h3>Lembaga Keuangan Masyarakat (LKM)</h3>
+                                <p>Kami menyediakan solusi bagi LKM melalui produk SimfoniLKM.</p>
                             </div>
                         </div>
                     </div>
@@ -357,8 +305,8 @@
                                 </div>
                             </div>
                             <div class="text-holder">
-                                <h3>Trades & Stocks</h3>
-                                <p>The process of improving measure of an enterpprise's success. Business growth can be a achieved.</p>
+                                <h3>Koperasi</h3>
+                                <p>Kami menyediakan solusi bagi Koperasi melalui produk SimfoniKoperasi.</p>
                             </div>
                         </div>
                     </div>
@@ -377,8 +325,8 @@
                                 </div>
                             </div>
                             <div class="text-holder">
-                                <h3>Investment Plan</h3>
-                                <p>The process of improving measure of an enterpprise's success. Business growth can be a achieved.</p>
+                                <h3>Bank Muamalat Watanwil (BMT)</h3>
+                                <p>Kami menyediakan solusi bagi BMT melalui produk SimfoniBMT.</p>
                             </div>
                         </div>
                     </div>
@@ -392,7 +340,7 @@
         <section class="smart-approach-area">
             <div class="container">
                 <div class="sec-title text-center">
-                    <h1>Our Smart Approach</h1>
+                    <h1>Kelebihan Layanan Kami </h1>
                     <span class="border"></span>
                 </div>
                 <div class="row">
@@ -403,8 +351,9 @@
                                 <span class="icon-mathematics"></span>
                             </div>
                             <div class="text-box">
-                                <h3>Financial Service</h3>
-                                <p>Our financial experts help analyze financial data, to create steady financial foundation.</p>
+                                <h3>Handal</h3>
+                                <p>Produk dan layanan kami dapat diandalkan yang 
+                                    dibuktikan dengan pengalaman di industri keuangan selama lebih dari 13 tahun.</p>
                             </div>
                         </div>
                     </div>
@@ -416,8 +365,9 @@
                                 <span class="icon-science"></span>
                             </div>
                             <div class="text-box">
-                                <h3>Manufacturing</h3>
-                                <p>Electronic Materials has servd the semicondctor industry as a leading-edge materials.</p>
+                                <h3>Adaptif</h3>
+                                <p>Produk kami adaptif terhadap perubahan regulasi maupun kebutuhan instansi dan nasabah
+                                     sehingga dapat dikembangkan dengan sangat adaptif terhadap kebutuhan.</p>
                             </div>
                         </div>
                     </div>
@@ -429,8 +379,9 @@
                                 <span class="icon-science-1"></span>
                             </div>
                             <div class="text-box">
-                                <h3>Medical & Health Care</h3>
-                                <p>Electronic Materials has served semiconductor a leading-edge materials.</p>
+                                <h3>Support 24/7 </h3>
+                                <p>Kami memberikan support 24/7 melalui IT Support 
+                                    kami untuk membantu jika terjadi keluhan atau kendala saat menggunakan sistem kami.</p>
                             </div>
                         </div>
                     </div>
@@ -447,36 +398,36 @@
                     <!--Start single item-->
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="single-item text-center">
-                            <h1><span class="timer" data-from="1" data-to="2456" data-speed="5000" data-refresh-interval="50">2456</span></h1>
+                            <h1><span class="timer" data-from="1" data-to="2456" data-speed="5000" data-refresh-interval="50">33</span></h1>
                             <span class="border"></span>
-                            <h3>Projects Completed</h3>
+                            <h3>Client Aktif</h3>
                         </div>
                     </div>
                     <!--End single item-->
                     <!--Start single item-->
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="single-item text-center">
-                            <h1><span class="timer" data-from="1" data-to="146" data-speed="5000" data-refresh-interval="50">146</span><i class="fa fa-plus" aria-hidden="true"></i></h1>
+                            <h1><span class="timer" data-from="1" data-to="146" data-speed="5000" data-refresh-interval="50">10</span><i class="fa fa-plus" aria-hidden="true"></i></h1>
                             <span class="border"></span>
-                            <h3>Expert Technicians</h3>
+                            <h3>Tenaga Ahli</h3>
                         </div>
                     </div>
                     <!--End single item-->
                     <!--Start single item-->
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="single-item text-center">
-                            <h1><span class="timer" data-from="1" data-to="853" data-speed="5000" data-refresh-interval="50">853</span><i class="fa fa-plus" aria-hidden="true"></i></h1>
+                            <h1><span class="timer" data-from="1" data-to="853" data-speed="5000" data-refresh-interval="50">55+</span><i class="fa fa-plus" aria-hidden="true"></i></h1>
                             <span class="border"></span>
-                            <h3>Happy Customers</h3>
+                            <h3>Pengguna Symfoni Mobile</h3>
                         </div>
                     </div>
                     <!--End single item-->
                     <!--Start single item-->
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="single-item text-center">
-                            <h1><span class="timer" data-from="1" data-to="2381" data-speed="5000" data-refresh-interval="50">2381</span></h1>
+                            <h1><span class="timer" data-from="1" data-to="2381" data-speed="5000" data-refresh-interval="50">5+</span></h1>
                             <span class="border"></span>
-                            <h3>Cups of Coffee</h3>
+                            <h3>Mobile Apps untuk Nasabah</h3>
                         </div>
                     </div>
                     <!--End single item-->
@@ -486,7 +437,7 @@
         </section>
         <!--End fact counter area-->
 
-        <!--Start latest project area-->
+        <!--Start latest project area
         <section class="latest-project-area">
             <div class="container">
                 <div class="row">
@@ -504,6 +455,7 @@
                     </div>
                 </div>
                 <div class="row project-content masonary-layout filter-layout">
+                    -->
                     <!--Start single project-->
                     <div class="col-md-4 col-sm-4 col-xs-12 filter-item consulting growth">
                         <div class="single-project text-center">
@@ -528,82 +480,7 @@
                             </div>
                         </div>
                     </div>
-                    <!--End single project-->
-                    <!--Start single project-->
-                    <div class="col-md-4 col-sm-4 col-xs-12 filter-item growth marketing">
-                        <div class="single-project text-center">
-                            <div class="outer-img-box">
-                                <div class="img-holder">
-                                    <img src="landing/images/project/lat-pro-2.jpg" alt="Awesome Image">
-                                    <div class="overlay-style-one">
-                                        <div class="box">
-                                            <div class="content">
-                                                <div class="icon-holder">
-                                                    <a href="landing/images/project/lat-pro-2.jpg" data-rel="prettyPhoto" title="Assurance Project"><i class="fa fa-camera"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="title-holder">
-                                <a href="project-single.html">
-                                    <h5>Financial Income</h5>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End single project-->
-                    <!--Start single project-->
-                    <div class="col-md-4 col-sm-4 col-xs-12 filter-item consulting finance marketing">
-                        <div class="single-project text-center">
-                            <div class="outer-img-box">
-                                <div class="img-holder">
-                                    <img src="landing/images/project/lat-pro-3.jpg" alt="Awesome Image">
-                                    <div class="overlay-style-one">
-                                        <div class="box">
-                                            <div class="content">
-                                                <div class="icon-holder">
-                                                    <a href="landing/images/project/lat-pro-3.jpg" data-rel="prettyPhoto" title="Assurance Project"><i class="fa fa-camera"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="title-holder">
-                                <a href="project-single.html">
-                                    <h5>Business Growth</h5>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End single project-->
-                    <!--Start single project-->
-                    <div class="col-md-4 col-sm-4 col-xs-12 filter-item consulting marketing finance">
-                        <div class="single-project text-center">
-                            <div class="outer-img-box">
-                                <div class="img-holder">
-                                    <img src="landing/images/project/lat-pro-4.jpg" alt="Awesome Image">
-                                    <div class="overlay-style-one">
-                                        <div class="box">
-                                            <div class="content">
-                                                <div class="icon-holder">
-                                                    <a href="landing/images/project/lat-pro-4.jpg" data-rel="prettyPhoto" title="Assurance Project"><i class="fa fa-camera"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="title-holder">
-                                <a href="project-single.html">
-                                    <h5>Strategy & Development</h5>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End single project-->
+                    
                     <!--Start single project-->
                     <div class="col-md-4 col-sm-4 col-xs-12 filter-item consulting growth marketing">
                         <div class="single-project text-center">
@@ -628,42 +505,13 @@
                             </div>
                         </div>
                     </div>
-                    <!--End single project-->
-                    <!--Start single project-->
-                    <div class="col-md-4 col-sm-4 col-xs-12 filter-item consulting finance">
-                        <div class="single-project text-center">
-                            <div class="outer-img-box">
-                                <div class="img-holder">
-                                    <img src="landing/images/project/lat-pro-6.jpg" alt="Awesome Image">
-                                    <div class="overlay-style-one">
-                                        <div class="box">
-                                            <div class="content">
-                                                <div class="icon-holder">
-                                                    <a href="landing/images/project/lat-pro-6.jpg" data-rel="prettyPhoto" title="Assurance Project"><i class="fa fa-camera"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="title-holder">
-                                <a href="project-single.html">
-                                    <h5>Employees Skills</h5>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End single project-->
-                </div>
-            </div>
-        </section>
-        <!--End latest project area-->
+                   
 
         <!--Start team area-->
         <section class="team-area">
             <div class="container">
                 <div class="sec-title text-center">
-                    <h1>Meet Our Team</h1>
+                    <h1>Team Kami</h1>
                     <span class="border"></span>
                 </div>
                 <div class="row">
@@ -756,7 +604,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="text-holder">
-                            <h3>Everyboy has something important to say! assurance also.</h3>
+                            <h3>Cooming Soon</h3>
                             <div class="text">
                                 <p>We have built an enviable reputation in the consumer goods, heavy industry, high-tech, manufacturing, medical, recreational vehicle, and transportation sectors. multidisciplinary team of engineering experts.</p>
                                 <p>Who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain.</p>
