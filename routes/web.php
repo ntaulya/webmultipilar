@@ -13,6 +13,9 @@ use Illuminate\Support\Facades\Auth;
 | contains the "web" middleware group. Now create something great!
 |
 */
+// kalau mau ke halaman login langsung tambahin /login di url begitupun kalo register 
+//"http://127.0.0.1:8000/login" http://127.0.0.1:8000/register
+
 Auth::routes();
 
 Route::get('/', function () {
