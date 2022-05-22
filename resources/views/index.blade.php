@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" style="scroll-behavior: smooth;">
 
 <head>
     <meta charset="UTF-8">
@@ -136,7 +136,7 @@
                                 <div class="navbar-collapse collapse clearfix">
                                     <ul class="navigation clearfix">
                                         <li class="home current"><a href="index.html"><span class="fa fa-home"></span></a></li>
-                                        <li class="dropdown"><a href="about.html">Tentang Kami</a>
+                                        <li class="dropdown"><a href="/about-us">Tentang Kami</a>
                                             <ul>
                                                 <li><a href="#">Tentang Perusahaan</a></li>
                                                 <li><a href="#">Sejarah Kami</a></li>
@@ -145,7 +145,7 @@
 
                                             </ul>
                                         </li>
-                                        <li class="dropdown"><a href="#">Produk Kami</a>
+                                        <li class="dropdown"><a href="/products">Produk Kami</a>
                                             <ul>
                                                 <li><a href="#">SimfoniBPR</a></li>
                                                 <li><a href="#">SimfoniLKM</a></li>
@@ -154,12 +154,14 @@
 
                                             </ul>
                                         </li>
-                                        <li><a href="blog.html">Berita / Blog</a></li>
-                                       
-                                        <li><a href="contact.html">Contact Us</a></li>
+                                        <li><a href="/blog">Berita / Blog</a></li>
+                                        <li><a href="#contact">Hubungi Kami</a></li>
+
+
                                     </ul>
                                 </div>
                             </nav>
+
                             <!--End mainmenu-->
                             <!--Start search box-->
                             <div class="outer-search-box">
@@ -200,7 +202,7 @@
                             <div class="slide-content-box">
                                 <h1>PT. Multipilar Balantika <br> Penyedia Core Banking System</h1>
                                 <p>Telah berpengalaman lebih dari 13 tahun <br>
-                                membangun sistem untuk BPR, LKM dan Koperasi.</p>
+                                    membangun sistem untuk BPR, LKM dan Koperasi.</p>
                             </div>
                         </div>
                         <div class="tp-caption tp-resizeme" data-x="left" data-hoffset="0" data-y="top" data-voffset="358" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-start="2300">
@@ -234,7 +236,7 @@
                             </div>
                         </div>
                     </li>
-                    
+
 
                 </ul>
             </div>
@@ -245,9 +247,9 @@
         <section class="call-to-action-area">
             <div class="container">
                 <div class="title text-center">
-                    <h3>PT. Multipilar Balantika <br> 
-                    perusahaan penyedia Core Banking System (CBS) yang telah berpengalaman untuk membantu 
-                    perusahaan microbanking untuk tumbuh melalui produk yang handal dan adaptif.</h3>
+                    <h3>PT. Multipilar Balantika <br>
+                        perusahaan penyedia Core Banking System (CBS) yang telah berpengalaman untuk membantu
+                        perusahaan microbanking untuk tumbuh melalui produk yang handal dan adaptif.</h3>
                     <p>Microbanking yang kami layani :</p>
                 </div>
                 <div class="row">
@@ -352,7 +354,7 @@
                             </div>
                             <div class="text-box">
                                 <h3>Handal</h3>
-                                <p>Produk dan layanan kami dapat diandalkan yang 
+                                <p>Produk dan layanan kami dapat diandalkan yang
                                     dibuktikan dengan pengalaman di industri keuangan selama lebih dari 13 tahun.</p>
                             </div>
                         </div>
@@ -367,7 +369,7 @@
                             <div class="text-box">
                                 <h3>Adaptif</h3>
                                 <p>Produk kami adaptif terhadap perubahan regulasi maupun kebutuhan instansi dan nasabah
-                                     sehingga dapat dikembangkan dengan sangat adaptif terhadap kebutuhan.</p>
+                                    sehingga dapat dikembangkan dengan sangat adaptif terhadap kebutuhan.</p>
                             </div>
                         </div>
                     </div>
@@ -380,7 +382,7 @@
                             </div>
                             <div class="text-box">
                                 <h3>Support 24/7 </h3>
-                                <p>Kami memberikan support 24/7 melalui IT Support 
+                                <p>Kami memberikan support 24/7 melalui IT Support
                                     kami untuk membantu jika terjadi keluhan atau kendala saat menggunakan sistem kami.</p>
                             </div>
                         </div>
@@ -456,56 +458,56 @@
                 </div>
                 <div class="row project-content masonary-layout filter-layout">
                     -->
-                    <!--Start single project-->
-                    <div class="col-md-4 col-sm-4 col-xs-12 filter-item consulting growth">
-                        <div class="single-project text-center">
-                            <div class="outer-img-box">
-                                <div class="img-holder">
-                                    <img src="landing/images/project/lat-pro-1.jpg" alt="Awesome Image">
-                                    <div class="overlay-style-one">
-                                        <div class="box">
-                                            <div class="content">
-                                                <div class="icon-holder">
-                                                    <a href="landing/images/project/lat-pro-1.jpg" data-rel="prettyPhoto" title="Assurance Project"><i class="fa fa-camera"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
+        <!--Start single project-->
+        <div class="col-md-4 col-sm-4 col-xs-12 filter-item consulting growth">
+            <div class="single-project text-center">
+                <div class="outer-img-box">
+                    <div class="img-holder">
+                        <img src="landing/images/project/lat-pro-1.jpg" alt="Awesome Image">
+                        <div class="overlay-style-one">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="icon-holder">
+                                        <a href="landing/images/project/lat-pro-1.jpg" data-rel="prettyPhoto" title="Assurance Project"><i class="fa fa-camera"></i></a>
                                     </div>
                                 </div>
                             </div>
-                            <div class="title-holder">
-                                <a href="project-single.html">
-                                    <h5>Consumer Products</h5>
-                                </a>
-                            </div>
                         </div>
                     </div>
-                    
-                    <!--Start single project-->
-                    <div class="col-md-4 col-sm-4 col-xs-12 filter-item consulting growth marketing">
-                        <div class="single-project text-center">
-                            <div class="outer-img-box">
-                                <div class="img-holder">
-                                    <img src="landing/images/project/lat-pro-5.jpg" alt="Awesome Image">
-                                    <div class="overlay-style-one">
-                                        <div class="box">
-                                            <div class="content">
-                                                <div class="icon-holder">
-                                                    <a href="landing/images/project/lat-pro-5.jpg" data-rel="prettyPhoto" title="Assurance Project"><i class="fa fa-camera"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
+                </div>
+                <div class="title-holder">
+                    <a href="project-single.html">
+                        <h5>Consumer Products</h5>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!--Start single project-->
+        <div class="col-md-4 col-sm-4 col-xs-12 filter-item consulting growth marketing">
+            <div class="single-project text-center">
+                <div class="outer-img-box">
+                    <div class="img-holder">
+                        <img src="landing/images/project/lat-pro-5.jpg" alt="Awesome Image">
+                        <div class="overlay-style-one">
+                            <div class="box">
+                                <div class="content">
+                                    <div class="icon-holder">
+                                        <a href="landing/images/project/lat-pro-5.jpg" data-rel="prettyPhoto" title="Assurance Project"><i class="fa fa-camera"></i></a>
                                     </div>
                                 </div>
                             </div>
-                            <div class="title-holder">
-                                <a href="project-single.html">
-                                    <h5>International Meet</h5>
-                                </a>
-                            </div>
                         </div>
                     </div>
-                   
+                </div>
+                <div class="title-holder">
+                    <a href="project-single.html">
+                        <h5>International Meet</h5>
+                    </a>
+                </div>
+            </div>
+        </div>
+
 
         <!--Start team area-->
         <section class="team-area">
@@ -874,7 +876,7 @@
         <!--End Brand area-->
 
         <!--Start footer area-->
-        <footer class="footer-area" style="background-image:url(images/footer/footer-bg.jpg);">
+        <footer id="contact" class="footer-area" style="background-image:url(images/footer/footer-bg.jpg);">
             <div class="footer-top-area">
                 <div class="container">
                     <div class="row">

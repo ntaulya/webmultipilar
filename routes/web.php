@@ -21,5 +21,14 @@ Auth::routes();
 Route::get('/', function () {
     return view('index');
 });
+Route::get('/about-us', function () {
+    return view('aboutus');
+});
+Route::get('/products', function () {
+    return view('products');
+});
+Route::get('/blog', function () {
+    return view('blog');
+});
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
