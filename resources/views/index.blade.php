@@ -809,7 +809,7 @@
         <!--End Brand area-->
 
         <!--Start footer area-->
-        <footer id="contact" class="footer-area" style="background-image:url(images/footer/footer-bg.jpg);">
+        <footer id="contact" class="footer-area" style="background-image:url(landing/images/footer/footer-bg.jpg);">
             <div class="footer-top-area">
                 <div class="container">
                     <div class="row">
