@@ -394,7 +394,7 @@
         <!--End smart approach area-->
 
         <!--Start fact counter area-->
-        <section class="fact-counter-area" style="background-image:url(images/resources/fact-counter-bg.jpg);">
+        <section class="fact-counter-area" style="background-image:url(landing/images/resources/fact-counter-bg.jpg);">
             <div class="container">
                 <div class="row">
                     <!--Start single item-->
@@ -437,76 +437,9 @@
                 </div>
             </div>
         </section>
-        <!--End fact counter area-->
+        
 
-        <!--Start latest project area
-        <section class="latest-project-area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <ul class="project-filter post-filter pull-left">
-                            <li class="active" data-filter=".filter-item"><span>View All</span></li>
-                            <li data-filter=".consulting"><span>Consulting</span></li>
-                            <li data-filter=".finance"><span>Finance</span></li>
-                            <li data-filter=".marketing"><span>Marketing</span></li>
-                            <li data-filter=".growth"><span>Growth</span></li>
-                        </ul>
-                        <div class="more-project pull-right">
-                            <a href="project.html">More Projects<i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="row project-content masonary-layout filter-layout">
-                    -->
-        <!--Start single project-->
-        <div class="col-md-4 col-sm-4 col-xs-12 filter-item consulting growth">
-            <div class="single-project text-center">
-                <div class="outer-img-box">
-                    <div class="img-holder">
-                        <img src="landing/images/project/lat-pro-1.jpg" alt="Awesome Image">
-                        <div class="overlay-style-one">
-                            <div class="box">
-                                <div class="content">
-                                    <div class="icon-holder">
-                                        <a href="landing/images/project/lat-pro-1.jpg" data-rel="prettyPhoto" title="Assurance Project"><i class="fa fa-camera"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="title-holder">
-                    <a href="project-single.html">
-                        <h5>Consumer Products</h5>
-                    </a>
-                </div>
-            </div>
-        </div>
-
-        <!--Start single project-->
-        <div class="col-md-4 col-sm-4 col-xs-12 filter-item consulting growth marketing">
-            <div class="single-project text-center">
-                <div class="outer-img-box">
-                    <div class="img-holder">
-                        <img src="landing/images/project/lat-pro-5.jpg" alt="Awesome Image">
-                        <div class="overlay-style-one">
-                            <div class="box">
-                                <div class="content">
-                                    <div class="icon-holder">
-                                        <a href="landing/images/project/lat-pro-5.jpg" data-rel="prettyPhoto" title="Assurance Project"><i class="fa fa-camera"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="title-holder">
-                    <a href="project-single.html">
-                        <h5>International Meet</h5>
-                    </a>
-                </div>
-            </div>
-        </div>
+        
 
 
         <!--Start team area-->
