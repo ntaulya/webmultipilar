@@ -816,10 +816,10 @@
                         <div class="col-md-12">
                             <div class="footer-top-content">
                                 <div class="title pull-left">
-                                    <h3>Over 20 years of experience we will ensure you always get the best.</h3>
+                                    <h3>Berpengalaman lebih dari 13 tahun untuk membangun Core Banking System yang handal dan adaptif.</h3>
                                 </div>
                                 <div class="button pull-right">
-                                    <a class="thm-btn bg-clr1" href="#">Book Consultation</a>
+                                    <a class="thm-btn bg-clr1" href="#">Konsultasi Sekarang</a>
                                 </div>
                             </div>
                         </div>
