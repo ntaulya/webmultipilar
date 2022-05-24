@@ -3,6 +3,11 @@
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
 
+use App\Http\Controllers\LandingController;
+use App\Http\Controllers\AboutController;
+use App\Http\Controllers\ProductController;
+use App\Http\Controllers\BlogController;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -18,17 +23,10 @@ use Illuminate\Support\Facades\Auth;
 
 Auth::routes();
 
-Route::get('/', function () {
-    return view('index');
-});
-Route::get('/about-us', function () {
-    return view('aboutus');
-});
-Route::get('/products', function () {
-    return view('products');
-});
-Route::get('/blog', function () {
-    return view('blog');
-});
+Route::get('/', [App\Http\Controllers\LandingController::class, 'index']);
+Route::get('/about-us', [App\Http\Controllers\AboutController::class, 'index'])->name('index');
+Route::get('/products', [App\Http\Controllers\ProductController::class, 'index'])->name('index');
+Route::get('/blog', [App\Http\Controllers\BlogController::class, 'index'])->name('index');
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+//Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
